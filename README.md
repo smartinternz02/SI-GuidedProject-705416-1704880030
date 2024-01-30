@@ -19,7 +19,7 @@ Before running the automated tests, make sure you have the following installed:
 
 - [Katalon Studio](https://www.katalon.com/)
 - [Java](https://www.java.com/en/download/)
-- [WebDriver](https://www.selenium.dev/documentation/en/webdriver/)
+  
 
 ## Getting Started
 
